@@ -1,0 +1,9 @@
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Search.Tests\bin\Debug\Search.Tests.dll
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Search.Tests\bin\Debug\Search.Tests.pdb
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Search.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Search.Tests\bin\Debug\Serch.dll
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Search.Tests\bin\Debug\Serch.pdb
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Search.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Search.Tests\obj\Debug\Serch.Tests.csprojResolveAssemblyReference.cache
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Search.Tests\obj\Debug\Search.Tests.dll
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Search.Tests\obj\Debug\Search.Tests.pdb

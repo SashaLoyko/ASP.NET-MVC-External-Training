@@ -1,0 +1,9 @@
+D:\Програмуха\NET.S.2017.02.Loyko.02\Sort.Tests\bin\Debug\Sort.Tests.dll
+D:\Програмуха\NET.S.2017.02.Loyko.02\Sort.Tests\bin\Debug\Sort.Tests.pdb
+D:\Програмуха\NET.S.2017.02.Loyko.02\Sort.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Програмуха\NET.S.2017.02.Loyko.02\Sort.Tests\bin\Debug\Sort.dll
+D:\Програмуха\NET.S.2017.02.Loyko.02\Sort.Tests\bin\Debug\Sort.pdb
+D:\Програмуха\NET.S.2017.02.Loyko.02\Sort.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Програмуха\NET.S.2017.02.Loyko.02\Sort.Tests\obj\Debug\Sort.Tests.csprojResolveAssemblyReference.cache
+D:\Програмуха\NET.S.2017.02.Loyko.02\Sort.Tests\obj\Debug\Sort.Tests.dll
+D:\Програмуха\NET.S.2017.02.Loyko.02\Sort.Tests\obj\Debug\Sort.Tests.pdb

@@ -1,0 +1,5 @@
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Serch\bin\Debug\Serch.dll
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Serch\bin\Debug\Serch.pdb
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Serch\obj\Debug\Serch.dll
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Serch\obj\Debug\Serch.pdb
+D:\Програмуха\HomeWork\ASP.NET-MVC-External-Training\NET.S.2017.03.Loyko.03\Serch\obj\Debug\Serch.csprojResolveAssemblyReference.cache
